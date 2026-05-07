@@ -150,7 +150,7 @@ body {
   left: 0;
   width: 100%;
   background: #e3ecf7;
-  color: #1e3a5f;
+  color: #ffffff;
   border-radius: 10px;
   padding: 8px;
   display: none;
@@ -254,18 +254,16 @@ body {
 }
 
 .track-header h1 {
-  margin: 0;
-  font-size: clamp(2rem, 2.5vw, 3rem);
-  font-weight: 700;
-  letter-spacing: -0.04em;
+   font-size: 28px;
+  font-weight: 800;
   color: #111827;
+  margin-bottom: 6px;
 }
 
 .track-header p {
-  margin: 12px 0 0;
+  font-size: 16px;
   color: #6b7280;
-  font-size: 1rem;
-  max-width: 600px;
+  margin-bottom: 26px;
 }
 
 .track-card {
